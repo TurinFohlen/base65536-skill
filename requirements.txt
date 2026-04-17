@@ -1,0 +1,9 @@
+base65536==0.1.1
+argparse
+gzip
+base65536
+os
+json
+hashlib
+random
+
